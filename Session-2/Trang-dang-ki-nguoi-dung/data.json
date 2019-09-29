@@ -1,0 +1,56 @@
+[
+    {
+        "username": "kien",
+        "password": "123",
+        "phone": "0321",
+        "mail": "abc@mail.com"
+    },
+    {
+        "username": "hai",
+        "password": "1234",
+        "phone": "0323",
+        "mail": "def@mail.com"
+    },
+    {
+        "username": "huy",
+        "password": "123456",
+        "phone": "123779",
+        "mail": "abc@gmail.com"
+    },
+    {
+        "username": "heo",
+        "password": "123",
+        "phone": "123779",
+        "mail": "abc@gmail.com"
+    },
+    {
+        "username": "ahihi",
+        "password": "123456",
+        "phone": "123779",
+        "mail": "abc@gmail.com"
+    },
+    {
+        "username": "q",
+        "password": "w",
+        "phone": "1",
+        "mail": "abc@gmail.com"
+    },
+    {
+        "username": "admina",
+        "password": "123",
+        "phone": "123",
+        "mail": "abc@gmail.com"
+    },
+    {
+        "username": null,
+        "password": null,
+        "phone": null,
+        "mail": null
+    },
+    {
+        "username": "admina",
+        "password": "123",
+        "phone": "123",
+        "mail": "abc@gmail.com"
+    }
+]
